@@ -1,16 +1,15 @@
-### Hi there 👋
+#### about me
 
-<!--
-**efe-inc/efe-inc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im efe.
 
-Here are some ideas to get you started:
+i work on php, java, c++, js and perl for $$$ only and usually private projects.
+i also usually develop viruses, remote administration tools for private use and spend my free time with reverse engineering, code injection and penetration testing just to help people and their systems or maybe just for educational purposes.
+i sometimes work on pentesting, database dumping, social engineering for educational purposes only.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### me on social media
+
+- Discord: [Efe#1337](https://discord.com/users/366593737696215041)
+
+#### looking for more?
+
+you can private message me on discord to know about me on other social medias
