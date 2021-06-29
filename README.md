@@ -3,7 +3,7 @@
 im efe.
 
 i work on php, java, c++, js and perl for $$$ only and usually private projects.
-i also usually develop viruses, remote administration tools for private use and spend my free time with reverse engineering, code injection and penetration testing just to help people and their systems or maybe just for educational purposes.
+i also usually develop remote administration tools for private use and spend my free time with crackmes (especially jvm related ones), researching, reverse engineering, code injection and penetration testing just to help people and their systems or maybe just for educational purposes.
 i sometimes work on pentesting, database dumping, social engineering for educational purposes only.
 
 #### me on social media
